@@ -1,4 +1,4 @@
 # deeplearning-proj
-This is my introduction to the deeplearning 
+This is my  deeplearning  projects
 <br>
 Author :- harry
